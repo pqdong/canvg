@@ -51,7 +51,7 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "jsdom": "^13.0.0",
-    "rgbcolor": "^1.0.1",
+    "rgbcolor": "https://github.com/pqdong/node-rgbcolor/tarball/9f29f71dcfea3ac6810957d2a3e9256dc2a7550a",
     "stackblur-canvas": "^2.0.0",
     "xmldom": "^0.1.27"
   },
